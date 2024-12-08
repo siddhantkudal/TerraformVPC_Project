@@ -3,7 +3,7 @@ This project demonstrates the use of Terraform for provisioning AWS resources. I
 
 
 
-# Terraform Deployment of a Status Website
+# Terraform Deployment of a Static Website
 
 ## Overview
 This project showcases the use of Terraform to deploy infrastructure and applications on AWS. A status website is hosted on an EC2 instance and served via an application load balancer.
