@@ -18,5 +18,5 @@ variable "vpc_id" {
 
 
 variable "targetid" {
-    description = "vpc id for creating security group"
+    description = "ec2 instance id for creating security group"
 }
